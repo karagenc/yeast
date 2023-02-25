@@ -38,8 +38,9 @@ func (y *Yeaster) Yeast() string {
 		return now
 	}
 
+	e := now + "." + y.Encode(y.seed)
 	y.seed += 1
-	return now + "." + y.Encode(y.seed)
+	return e
 }
 
 func (y *Yeaster) Encode(num int64) string {
