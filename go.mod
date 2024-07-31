@@ -1,4 +1,4 @@
-module github.com/tomruk/yeast
+module github.com/karagenc/yeast
 
 go 1.20
 

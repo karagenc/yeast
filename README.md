@@ -20,7 +20,7 @@ To keep the strings unique it will use the `.` char to separate the generated st
 
 ```go
 import (
-    "github.com/tomruk/yeast"
+    "github.com/karagenc/yeast"
     "fmt"
     "time"
 )
