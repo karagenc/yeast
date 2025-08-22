@@ -1,4 +1,4 @@
-## Yeast
+# Yeast
 
 This is the Go implementation of https://github.com/unshiftio/yeast.
 
